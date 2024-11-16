@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 # Stats 📊
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Alexco2003&theme=vue-dark)](https://git.io/streak-stats)
-[![Alexco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexco2003&theme=vue-dark)](https://github.com/Alexco2003/github-readme-stats) 
+[![Alexco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexco2003&theme=vue-dark&show_icons=true)](https://github.com/Alexco2003/github-readme-stats) 
 
 
 # Tech Stack 💾
