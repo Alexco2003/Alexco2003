@@ -50,7 +50,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+<img src="https://img.shields.io/badge/Prolog-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
 <img src="" />
+	
 </p>
 TBA
 	
