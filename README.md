@@ -1,4 +1,7 @@
+<p>
 <img src="https://img.shields.io/badge/github%20-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
 
 # About me 👋
 ![](https://komarev.com/ghpvc/?username=Alexco2003&color=49b38b&style=for-the-badge&abbreviated=true)
@@ -22,10 +25,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 &langs_count=20
+<img src="" />	
 -->
 
 # Stats 📊
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Alexco2003&theme=vue-dark)](https://git.io/streak-stats)
 [![Alexco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexco2003&theme=vue-dark&show_icons=true)](https://github.com/Alexco2003/github-readme-stats) 
 
@@ -35,14 +38,6 @@ Here are some ideas to get you started:
 
 ## Back End
 <p>
- <!--
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
- -->
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -52,10 +47,20 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 <img src="https://img.shields.io/badge/Prolog-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
-<img src="" />
-	
+<img src="https://img.shields.io/badge/Jupyter Notebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/cisco packet tracer-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" />
 </p>
-TBA
 	
 ### Database
 <p>
@@ -71,7 +76,6 @@ TBA
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
- 
 </p>
 
 ## Other
@@ -84,6 +88,3 @@ TBA
 - 📧 Email: [alexandru.codarcea@gmail.com](mailto:alexandru.codarcea@gmail.com)
 - 💼 LinkedIn: [Codarcea Alexandru-Christian](https://www.linkedin.com/in/alexandru-codarcea-44aab2274)
 - 📸 Instagram: [@alex_la_doza](https://instagram.com/alex_la_doza)
-
-
-
