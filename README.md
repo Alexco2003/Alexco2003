@@ -6,9 +6,17 @@
 # About me 👋
 ![](https://komarev.com/ghpvc/?username=Alexco2003&color=49b38b&style=for-the-badge&abbreviated=true)
 
+<!--
  I am a third year student at the Faculty of Mathematics and Computer Science, University of Bucharest. My passion for
 programming ignited in the 9th grade, shaping my unwavering conviction that programming is my destined path. My
 sociable nature enables me to collaborate seamlessly with others, making me a valuable asset in team environments. 🦅
+-->
+
+I am currently a first-year Master's student at the **National University of Science and Technology Politehnica Bucharest**, Faculty of Automatic Control and Computers, specializing in **Graphics, Multimedia, and Virtual Reality**.
+
+I graduated from the **University of Bucharest**, Faculty of Mathematics and Computer Science (field: Computer Science) in 2025. You can check out my Bachelor's Thesis project **[here](https://github.com/Alexco2003/Abyssborne)**.
+
+My passion for programming ignited in the 9th grade, shaping my unwavering conviction that programming is my destined path. My sociable nature enables me to collaborate seamlessly with others, making me a valuable asset in team environments. 🦅
 
 <!--
 **Alexco2003/Alexco2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,12 +37,12 @@ Here are some ideas to get you started:
 -->
 
 # Stats 📊
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Alexco2003&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Alexco2003&theme=vue-dark)](https://git.io/streak-stats)
 [![Alexco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexco2003&theme=vue-dark&show_icons=true)](https://github.com/Alexco2003/github-readme-stats) 
 
 
 # Tech Stack 💾
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexco2003&layout=donut&theme=vue-dark)](https://github.com/Alexco2003/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexco2003&layout=donut&theme=vue-dark&langs_count=10)](https://github.com/Alexco2003/github-readme-stats)
 
 ## Back End
 <p>
@@ -45,6 +53,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+<img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
 <img src="https://img.shields.io/badge/Prolog-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
@@ -85,6 +94,7 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" />
 </p>
 
 # Contact 📞
