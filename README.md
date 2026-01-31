@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 # Stats 📊
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Alexco2003&theme=vue-dark)](https://git.io/streak-stats)
-[![Alexco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexco2003&theme=vue-dark&show_icons=true)](https://github.com/Alexco2003/github-readme-stats) 
+[![Alexco's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Alexco2003&theme=vue-dark&show_icons=true)](https://github.com/Alexco2003/github-readme-stats) 
 
 
 # Tech Stack 💾
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexco2003&layout=donut&theme=vue-dark&langs_count=10)](https://github.com/Alexco2003/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alexco2003&layout=donut&theme=vue-dark&langs_count=10)](https://github.com/Alexco2003/github-readme-stats)
 
 ## Back End
 <p>
